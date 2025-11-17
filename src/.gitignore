@@ -1,0 +1,19 @@
+# Environnements Python
+venv/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Bytecode
+__pycache__/
+
+# VSCode 
+.vscode/
+
+# Données / fichiers lourds
+data/
+
+# système
+.DS_Store
+EOF
